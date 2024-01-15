@@ -1,0 +1,136 @@
+.responsi{
+    display: none;
+}
+
+
+
+
+.contenedor{
+    background: #ccc;
+}
+
+.input__contenedor{
+    display: inline-block;
+    padding: 7px;
+    color: #fff;
+}
+
+
+.input__contenedor a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+.input__contenedor i {
+    width:  35px;
+    box-sizing: border-box;
+    text-align: right;
+    margin-right: 5px;
+
+}
+
+.input__contenedor:hover i {
+    color: #aaa;
+}
+
+.input__contenedor:hover a {
+    color: #54d5e6;
+}
+
+.nav__responsi__button--container {
+    position: absolute;
+    width: 100%;
+    font-size: 25px;
+    background-color: #68c;
+    margin-top: -105px;
+}
+.button__responsi--ul{
+    padding: 6px 20px;
+    text-align: right;
+    width: 100%;
+}
+
+
+
+@media screen and (max-width:500px){
+    .input__contenedor{
+        display: none;
+    }
+
+    nav {
+        height: 37px;
+        width: 100%;
+    }
+    .responsi{
+        display: block;
+        position: absolute;
+        width: 100%;
+        background-color: #7af;
+       margin-top: 37px;
+       padding-top: 27px;
+    }
+    .contenedor{
+        position: relative;
+        height: calc(100vh - 37px);
+        background-color: #7af;
+    }
+    .input__contenedor__resposi{
+        width: 100%;
+        padding: 9px 20px;
+    }
+    .input__contenedor__resposi i {
+    box-sizing: border-box;
+    text-align: center;
+    margin-right: 5px;
+    width: 30px;
+    color: #028;
+    }
+    .input__contenedor__resposi a {
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+    }
+    .input__contenedor__resposi:hover a {
+        background: rgb(163, 216, 212);
+        padding: 3px;
+        border-radius: .3em;
+        color: black;
+        transition: .4s all;
+    }
+    
+
+
+
+
+.div-boton {
+    text-align: center;
+
+}
+.boton {
+    text-align: center;
+    background: blue;
+    border-radius: 1em;
+    width: 90%;
+    height: 4vh;
+
+}
+
+.boton a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+}
+
+
+.boton:hover {
+    height: 5vh;
+    transition: .5s all;
+}
+
+}
+
+
+
+
+

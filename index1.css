@@ -1,0 +1,138 @@
+  /* *{
+    background: rgb(65, 0, 0);
+  } */
+  /* header {
+    width: 100%;
+    height: 75px;
+    background: #a07d56aa;
+    position: fixed;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.4) ;
+    border-bottom: 1px solid black;
+    border-radius: 3em;
+}
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+}
+.logo{
+    float: left;
+    line-height: 75px;
+}
+.logo h1{
+    color: #bb0000;
+    font-weight: 400;
+    font-size: 25px;
+    cursor: default;
+    position: relative;
+    top: -45px;
+    left: 35px;
+}
+.menu{
+    float: right;
+    line-height: 75px;
+}
+.menu a{
+    color: #460000;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 15px;
+    line-height: normal;
+    font-size: 15px;
+    transition: all 600ms ease;
+}
+.menu a:hover{
+    color: rgb(255, 255, 255);
+    border-bottom: 5px solid #ff9c2baa;
+}
+img{
+    width: 55px;
+    height: 45px;
+    float: left;
+    position: relative;
+    bottom: -15px;
+    left: -25px;
+    border-radius: 2em;
+}
+
+.conteneder {
+    height: 300px;
+    width: auto;
+    position: relative;
+    top: 75px;
+    background: rgb(255, 255, 185);
+    text-align: center;
+    border-bottom: 1px solid rgb(138, 118, 118);
+    padding: 9px;
+    cursor: default;
+    color: #fff;
+    border-top-right-radius: 3em;
+    border-top-left-radius: 3em;
+}
+.conteneder__2 { 
+    color: black;
+    position: absolute;
+    display: inline;
+    padding: 9px;
+    height: 25px;
+    text-align: center;
+    left: 45px;
+    right: 45px;
+    top: 250px;
+    border-top-right-radius: 1.5em;
+    border-top-left-radius: 1.5em;
+}
+.conteneder__2 a{
+    position: relative;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    bottom: -2px;
+    font-size: 18px;
+}
+.conteneder__2 a:hover{
+    position: relative;
+    transition: all .3s ease;
+    bottom: -2px;
+    color: rgb(0, 0, 0);
+    border-radius: .2em;
+}
+.conteneder h2{
+    border-bottom: 3px solid red;
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    border-radius: .2em;
+}
+.conteneder p{
+    color: rgb(0, 0, 0);
+}
+.conteneder__2 a{
+    margin-left: 55px;
+    margin-right: 55px;
+    line-height: 1;
+}
+.politica {
+    position: relative;
+    background: rgb(255, 225, 225);
+    bottom: -55px;
+    text-align: center;
+    border-bottom: .5px solid black;
+    height: 45px;
+    
+}
+.cont___privacidad {
+    position: relative;
+    bottom: -5px;
+}
+.cont___privacidad:hover {
+    color: white;
+    background: rgb(122, 98, 98);
+    transition: all .7s;
+    border-radius: 1em;
+    height: 45px;
+
+}  */

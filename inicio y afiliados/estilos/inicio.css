@@ -1,0 +1,21 @@
+*{
+    background: rgb(195, 255, 247);
+    text-align: center;
+}
+
+h1{
+    display: inline-block;
+
+}
+
+i {
+    font-size: 45px;
+
+}
+
+
+@media screen and (max-width:500px){
+    i {
+        display: block;
+    }
+}
